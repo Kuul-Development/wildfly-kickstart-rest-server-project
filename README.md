@@ -1,5 +1,8 @@
 # Wildfly kickstart rest server project
 
+[![Build Status](https://travis-ci.com/Kuul-Development/wildfly-kickstart-rest-server-project.svg?branch=master)](https://travis-ci.com/Kuul-Development/wildfly-kickstart-rest-server-project)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Kuul-Development_wildfly-kickstart-rest-server-project&metric=alert_status)](https://sonarcloud.io/dashboard?id=Kuul-Development_wildfly-kickstart-rest-server-project)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
