@@ -1,0 +1,12 @@
+language: java
+dist: trusty
+jdk: oraclejdk8
+git:
+  depth: false
+addons:
+  sonarcloud:
+    organization: "kuul-development"
+install: skip
+script:
+    - mvn clean install -Pcoverage
+    - sonar-scanner

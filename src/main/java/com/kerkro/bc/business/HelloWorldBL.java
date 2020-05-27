@@ -7,3 +7,4 @@ public class HelloWorldBL {
         return HELLO_FROM_CDI;
     }
 }
+
