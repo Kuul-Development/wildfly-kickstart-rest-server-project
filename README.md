@@ -13,7 +13,7 @@ See deployment for notes on how to deploy the project on a live system.
 You need:
 * Wildfly application server
 * Apache Maven
-* Java 8
+* Java 14 (Azul 14.0.2)
 * Docker (optionally)
 
 
